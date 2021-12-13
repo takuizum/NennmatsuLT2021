@@ -3,8 +3,10 @@
  
 # connpass
 JuliaTokai: https://juliatokai.connpass.com
+
 jl.dev: https://jldev.connpass.com
  
 ## イベントページ
 JuliaTokai: https://juliatokai.connpass.com/event/232791/
+
 jldev: https://jldev.connpass.com/event/232882/
