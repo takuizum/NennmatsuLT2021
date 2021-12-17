@@ -75,4 +75,4 @@ JuliaTokai x jl.dev
 + antimon2:
 + TsuMakoto:
 + takuizum:
-+ ...
++ ごまふあざらし: [REPL で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/repl/build/#1)
