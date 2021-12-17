@@ -1,19 +1,3 @@
----
-tags: JuliaTokai x jl.dev, イベント説明スライド
-slideOptions:
-  transition: slide
-  theme: white
----
-<style type="text/css">
-  .reveal h1,
-  .reveal h2,
-  .reveal h3,
-  .reveal h4,
-  .reveal h5,
-  .reveal h6 {
-    text-transform: none;
-  }
-</style>
 JuliaTokai x jl.dev
 
 年末LT大会
@@ -48,8 +32,7 @@ JuliaTokai x jl.dev
 
 + ただただ、Juliaで開発を行いたい，
 + Juliaを触ってる人とコミュニケーションとりたい，
-
-といった、ゆるっとした会です。
++ ゆるっとした会です。
 
 ---
 
