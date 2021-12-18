@@ -56,4 +56,5 @@ JuliaTokai x jl.dev
 + antimon2: [Julia v1.6 で プロパティ分割代入したい](https://hackmd.io/@antimon2/H15JVgPqF)
 + takuizum: Windowsのjuliaupを使ってお手軽julia体験
 + ごまふあざらし: [REPL で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/repl/build/#1)
-+ …
++ hyrodium: [Juliaの微分法いろいろ](https://hackmd.io/@hyrodium/rJrJ23j9t#/1)
++ ...
