@@ -36,26 +36,23 @@ JuliaTokai x jl.dev
 
 ---
 
-# 本日のお品書き
+# 本日のLT大会について
 
-+ 自己紹介
-    + **今日やりたいこと**、**発表の有無**（ある場合 **タイトル等** ）
-+ 発表（▽）
-+ 各自もくもく
-
---
-
-##  Note
++ 13:00 ~ 13:10: オープニング（本スライド）
++ 13:10 ~ 15:00: 発表（▽）
   + 開発に限定せず，Juliaに関するものなら何でもOK
-  + アドカレ最終日の翌日なので，それ関連の話は大歓迎です。
-  + 過去にJuliaTokaiなどで発表した内容の進化系orショートバージョンでもOKです。
+  + アドカレに書いたことや、そのQiitaを使っての発表もOKです！！
+  + 過去にJuliaTokaiやjl.devでの活動などでの内容の進化系orショートバージョンでもOKです。
   + 当日の飛び込みもOKです。
++ 15:10 ~ : 飛び入り募集
+  + 飛び入り発表したい方、よろしくおねがいします。
++ ~ 17:00: クロージング
 
 ---
 
 ## 本日の発表
 
-+ TsuMakoto:
++ TsuMakoto: Julia v1.7 - マルチスレッドとAtomic変数について
 + antimon2: [Julia v1.6 で プロパティ分割代入したい](https://hackmd.io/@antimon2/H15JVgPqF)
 + takuizum: Windowsのjuliaupを使ってお手軽julia体験
 + ごまふあざらし: [REPL で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/repl/build/#1)
